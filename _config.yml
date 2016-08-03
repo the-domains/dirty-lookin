@@ -1,0 +1,14 @@
+layout_spectrum: 0.9633343766909093
+typography_spectrum: 0.904756106203422
+color:
+  brandStrength: 0.9911587843671441
+  lightness: 0.6816470937337726
+  saturation: 0.2531551974825561
+  rhythmicContrast: 0.361433585640043
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Dirty Lookin'
